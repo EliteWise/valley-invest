@@ -106,7 +106,7 @@ public sealed class ModEntry : Mod
             + $"Intérêts cumulés : {account.TotalInterest:N2} po^"
             + $"Derniers intérêts : {account.LastInterest:N2} po^"
             + $"Taux quotidien : {config.DailyInterestRate:P2}^"
-            + "Les intérêts sont réinvestis chaque nuit. Les transferts se font en pièces entières.");
+            + "Les intérêts sont réinvestis chaque nuit.");
     }
 
     private void SelectAmount(bool deposit)
