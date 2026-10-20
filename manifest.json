@@ -1,0 +1,10 @@
+{
+  "Name": "Valley Invest",
+  "Author": "Elite",
+  "Version": "1.0.0",
+  "Description": "Placez votre or auprès de Lewis et recevez des intérêts composés chaque nuit.",
+  "UniqueID": "Elite.ValleyInvest",
+  "EntryDll": "ValleyInvest.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
