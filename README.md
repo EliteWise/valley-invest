@@ -1,4 +1,3 @@
 # Valley Invest
-Faites fructifier vos économies dans Stardew Valley : dépenser aujourd’hui ou épargner pour vos prochains projets, à vous de choisir.
-Parlez à Lewis dans son manoir pour déposer de l’or, consulter votre compte ou retirer votre argent. Votre placement rapporte 1 % par nuit, réinvesti automatiquement.
-Votre compte est sauvegardé avec la partie. Disponible en solo sur Stardew Valley 1.6 avec SMAPI 4.0 ou supérieur : décompressez le mod dans le dossier `Mods` pour jouer.
+This mod helps you to grow your savings: spend today or save for your next project.
+Talk to Lewis inside his manor to deposit gold, check your balance, or withdraw your money. Earn 1% interest each night, automatically reinvested.
